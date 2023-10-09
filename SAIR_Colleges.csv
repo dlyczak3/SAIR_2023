@@ -1,0 +1,11 @@
+College Name,PCT First Gen,Median hh Income,Retention Rate,Median Salary 1yr,Completion Rate,Net Price,Student Size,Admission Rate,PCT Black Students,Student Faculty Ratio,Median Graduation Debt,Control,Locale
+Duke University,0.134588564,78468,0.9772,69932,0.9555,31416,6815,0.0589,0.0804,6,13000,Private,City-Large
+Vanderbilt University,0.122257053,76279,0.9651,59743,0.9374,22204,7104,0.0714,0.107,8,14000,Private,City-Large
+Rice University,0.144758735,77707,0.9707,69373,0.9406,17805,4240,0.0948,0.0795,6,11000,Private,City-Large
+Emory University,0.163870246,80509,0.9485,57366,0.9224,25424,7050,0.1305,0.0806,9,18250,Private,City-Large
+Georgia Institute of Technology-Main Campus,0.149151318,77933,0.9703,80777,0.9015,14820,16566,0.1596,0.0748,14,21672,Public,City-Large
+University of North Carolina at Chapel Hill,0.199371352,66893,0.9652,46617,0.9029,13263,19722,0.204,0.0856,15,14000,Public,City-Small
+University of Miami,0.200959233,71124,0.9277,50273,0.8129,30742,11928,0.2849,0.0913,13,17500,Private,City-Small
+The University of Texas at Austin,0.275175902,72284,0.9643,48212,0.8203,17519,40506,0.2875,0.0447,17,20500,Public,City-Large
+University of Florida,0.307665825,60120,0.9673,45803,0.8755,3679,34044,0.3013,0.0521,17,15000,Public,City-Midsize
+The University of Alabama,0.225712689,57928,0.8855,44620,0.69,21534,30725,0.789,0.105,19,22750,Public,City-Small
